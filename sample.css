@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    height: 30vh;
+    width: 100vw;
+    margin-top: 10px;
+}
+
+.podcast-heading {
+    color: white;
+    padding: 20px;
+    font-weight: 500;
+    font-size: 32px;
+    font-family: "Roboto";
+}
+
+.bottom-section {
+    background-color: white;
+    padding: 15px;
+}
+
+.home-images {
+    height: 112px;
+    width: 144px;
+    margin-top: 15px;
+}
+
+.home-paragraph {
+    font-size: 16px;
+    color: #5a7184;
+    font-family: "Roboto";
+
+}
+
+.home-heading {
+    font-size: 16px;
+    color: #151765;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.special {
+    text-align: center;
+    margin: 10px;
+}
+
+.podcast-header {
+    background-color: #151765;
+    padding: 20px;
+    height: 170px;
+}
+
+.podcast-text-container {
+    padding: 15px;
+}
+
+.podcast-image {
+    width: 144px;
+    height: 112px;
+    margin-top: 10px;
+}
+
+.category {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.podcast-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.podcast-caption {
+    color: white;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.podcast-episode-container {
+    margin: 10px;
+}
+
+.pocast-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.podcast-duration {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 10px;
+}
+
+.button-styling {
+    background-color: #151765;
+    color: white;
+    border-radius: 14px;
+    height: 25px;
+    width: 85px;
+    font-size: 15px;
+    border-width: 0px;
+    font-weight: 600;
+    margin: 10px;
+
+}
